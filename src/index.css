@@ -30,6 +30,10 @@ body {
   border-top-left-radius: 0.5rem;
 }
 
+.CodeMirror {
+  height: 100% !important;
+}
+
 .code-mirror-wrapper {
   flex-grow: 1;
   border-bottom-left-radius: 0.5rem;
